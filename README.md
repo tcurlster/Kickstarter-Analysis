@@ -1,4 +1,4 @@
-# Kickstarter-Fundraising-Success-Analysis-in-Excel
+# Kickstarter-Analysis
 Analysis of Kickstarter Fundraising Efforts in 2014-2016 using Excel
 
 ## Overview of Project
