@@ -1,10 +1,10 @@
 # Kickstarter-Fundraising-Success-Analysis-in-Excel
 Analysis of Kickstarter Fundraising Efforts in 2014-2016 using Excel
 
-##Overview of Project
+## Overview of Project
 The purpose of this analysis is to understand when is the best time to launch a theater kickstarter projects and what is the most appropriate goal in order to fully fund a play kickstarter.
 
-##Analysis and Challenges
+## Analysis and Challenges
 For this analysis, I looked at 2 different scenarios: 1)how theater kickstarters fared in meeting their goal based on what time of year they were launched and 2) how successful play kickstarters were based on the the goal that they set for the kickstarter project. 
 
 For #1, I created a pivot table of all theater kickstarter projects using the month they were created and their outcome (successful, failed, and canceled) to identify which wast the best month (or worst) to launch a theater kickstarter project. For #2, I broke the outcomes of play kickstarter goal amounts into categories ($5,000 iterations) to be able to see which categories of goals had the most (and least) success in being funded. I then created a line charts for each type of outcome to be able to consume the data more easily than looking at the data.
